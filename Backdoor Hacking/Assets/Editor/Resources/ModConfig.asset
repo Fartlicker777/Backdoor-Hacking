@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: BackdoorHacking
+  id: kingVonwhat
   title: Backdoor Hacking
   author: 
   description: "B\u0119d\u0119 si\u0119 za ciebie modli\u0142.\r\n\nBlock the hacks
